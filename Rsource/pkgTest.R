@@ -1,0 +1,1 @@
+pkgTest = function( x = "neuralnet")  {    return (as.logical(require(x,character.only = TRUE)));  }
