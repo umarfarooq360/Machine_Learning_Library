@@ -3,6 +3,11 @@ Author: Omar Farooq
 
 ####OVERVIEW
 The Machine Learning library is written in R, interfaced with Java. It allows the user to create Artificial Neural Networks (ANN), Support Vector Machines (SVM) and Naive Bayesian Networks (BAY). 
+
+![alt text][logo]
+
+[logo]: https://raw.githubusercontent.com/umarfarooq360/Machine_Learning_Library/master/preview.png "Preview" 
+
 ####GETTING STARTED
 ##### • UNIX/MAC:
 To run the tools, the user is required to have R installed on your computer. See
