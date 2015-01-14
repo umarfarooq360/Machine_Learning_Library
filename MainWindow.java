@@ -37,7 +37,7 @@ public class MainWindow extends JFrame implements ActionListener
 
     //THE DEBUG STUFF
     private JRadioButton debugBut; //the Radio Button for debugging 
-    static boolean DEBUG = true; 
+    static boolean DEBUG = false; 
 
     public static void main(String [] args){
         new MainWindow();
